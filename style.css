@@ -1,0 +1,11 @@
+body {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+input {
+  width: 400px;
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
